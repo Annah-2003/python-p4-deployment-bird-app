@@ -15,8 +15,10 @@ psycopg2-binary = "*"
 python-dotenv = "*"
 sqlalchemy-serializer = "*"
 flask-cors = "*"
+pipenv = "*"
+shell = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.8.13"
+python_version = "3.12"
